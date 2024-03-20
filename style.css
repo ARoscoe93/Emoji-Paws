@@ -39,5 +39,5 @@ body {
   }
   
   .pet.selected{
-    border: 2px solid green;
+    border: 3px solid lightgreen;
   }
